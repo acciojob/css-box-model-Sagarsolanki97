@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+body {
+    margin: 28px;
+    border: 15px solid blue;
+}
+p {
+    /* background-color: lightblue; */
+    color: lightblue;
+    width: 300px;
+    padding: 58px;
+}

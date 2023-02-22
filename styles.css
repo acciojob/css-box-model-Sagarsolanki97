@@ -6,6 +6,7 @@ body {
 }
 .text{
 	width:300px;
+background-color:rgb(173, 216, 230);
 }
 p {
     /* background-color: lightblue; */

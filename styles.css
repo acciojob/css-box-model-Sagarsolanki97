@@ -4,6 +4,9 @@ body {
     margin: 28px;
     border: 15px solid blue;
 }
+.text{
+	width:300px;
+}
 p {
     /* background-color: lightblue; */
     color: lightblue;
